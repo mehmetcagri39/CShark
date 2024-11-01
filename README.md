@@ -1,3 +1,8 @@
+# Introduction
+
+## This is an ongoing personal project of mine which is a project for viewing your finance portfolio.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
